@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578556202076",
+    "project_id": "healthlinkedu-94054",
+    "storage_bucket": "healthlinkedu-94054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578556202076:android:611cee96fb9df50775aa99",
+        "android_client_info": {
+          "package_name": "com.example.student_doctor_healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUBn_WwIrEc5BdPmLmPPa1WBWi6uKR4LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
