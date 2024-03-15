@@ -18,4 +18,4 @@ The Student-Doctor Interaction System is an integrated platform aimed at fosteri
 To get started with the Student-Doctor Interaction System, follow these steps:
 
 1. Clone the repository to your local machine:
-
+2. Install any necessary dependencies:
